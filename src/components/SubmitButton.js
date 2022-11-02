@@ -3,7 +3,7 @@ import App from './App';
 
 function SubmitButton() {
     return (
-        <button id="root">Ask</button>     
+        <button>Ask</button>     
     )
 }
 export default SubmitButton;
