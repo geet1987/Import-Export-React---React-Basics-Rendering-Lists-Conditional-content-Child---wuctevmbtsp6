@@ -5,7 +5,7 @@ import '../styles/App.css'
 //import InputQuery from "./components/InputQuery"
 //import SubmitButton from "./components/SubmitButton"
 
-import {Heading, SubHeading, InputQuery, SubmitButton} from './Components'
+//import {Heading, SubHeading, InputQuery, SubmitButton} from './Components'
 
 const App = () => {
  // render()
