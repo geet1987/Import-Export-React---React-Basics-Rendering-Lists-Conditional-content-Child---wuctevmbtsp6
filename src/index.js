@@ -4,7 +4,7 @@ import App from "./components/App";
 import Heading from "./components/Heading";
 import InputQuery from "./components/InputQuery";
 import SubHeading from "./components/SubHeading";
-import SubmitButton from "./component/SubmitButtons";
+import SubmitButton from "./component/SubmitButton";
 
 ReactDOM.render(<App />, document.getElementById("root"));
 
