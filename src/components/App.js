@@ -1,9 +1,17 @@
 import React, { Component, useState } from "react"
 import '../styles/App.css'
 import Heading from "./components/Heading"
-import SubHeading from "./components/SubHeading"
 import InputQuery from "./components/InputQuery"
+import SubHeading from "./components/SubHeading"
 import SubmitButton from "./components/SubmitButton"
+
+
+// import App from "./components/App";
+// import Heading from "./components/Heading";
+// import InputQuery from "./components/InputQuery";
+// import SubHeading from "./components/SubHeading";
+// import SubmitButton from "./components/SubmitButton";
+
 
 //import { Heading, SubHeading, InputQuery, SubmitButton } from './components/'
 
